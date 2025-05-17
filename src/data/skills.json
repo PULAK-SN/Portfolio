@@ -47,5 +47,13 @@
   {
     "title": "MySQL",
     "imageSrc": "skills/mysql.png"
+  },
+  {
+    "title": "Git",
+    "imageSrc": "skills/git.png"
+  },
+  {
+    "title": "GitHub",
+    "imageSrc": "skills/github.png"
   }
 ]

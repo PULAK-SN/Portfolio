@@ -4,7 +4,7 @@ import styles from "./Experience.module.css";
 import skills from "../../data/skills.json";
 import { getImageUrl } from "../../utils";
 
-export const Experience = () => {
+export const Skill = () => {
   return (
     <section className={styles.container} id="skill">
       <h2 className={styles.title}>Skills</h2>
