@@ -1,0 +1,34 @@
+[
+  {
+    "title": "GPT-3",
+    "imageSrc": "projects/gpt-3.png",
+    "description": "This website appears to be a promotional site for GPT-3, a language model developed by OpenAI.",
+    "skills": ["HTML", "CSS", "React"],
+    "demo": "https://gpt-3-zeta-nine.vercel.app/",
+    "source": "https://github.com/PULAK-SN/GPT3"
+  },
+  {
+    "title": "Restaurant-Application",
+    "imageSrc": "projects/restaurant.png",
+    "description": "This project is the homepage of a fine dining restaurant.",
+    "skills": ["HTML", "CSS", "React"],
+    "demo": "https://restaurant-application-theta.vercel.app/",
+    "source": "https://github.com/PULAK-SN/Restaurant-Application"
+  },
+  {
+    "title": "E-Commerce",
+    "imageSrc": "projects/e-commerce.png",
+    "description": "This Project is the home page of Amazon, a popular e-commerce platform.",
+    "skills": ["HTML", "CSS", "React", "Context API"],
+    "demo": "https://e-commerce-five-chi-55.vercel.app/",
+    "source": "https://github.com/PULAK-SN/E-commerce"
+  },
+  {
+    "title": "Pagination",
+    "imageSrc": "projects/pagination.png",
+    "description": "This project showcases a pagination system implemented using React.js. ",
+    "skills": ["HTML", "CSS", "React"],
+    "demo": "https://pagination-beta-one.vercel.app/",
+    "source": "https://github.com/PULAK-SN/Pagination"
+  }
+]
